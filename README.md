@@ -1,7 +1,7 @@
 ### Hi I am Kranti 👋
 👨🏻‍ About Me
-- 💻 Two decades of experience in software Industry.
-- 🎓 MTech,(PhD), PGDTC, PGDCL,LLB
+- 💻 Two decades of experience in the software Industry.
+- 🎓 MTech,(PhD), PGDTC, PGDCL, LLB
   
 🛠️ Tech Stack
 
