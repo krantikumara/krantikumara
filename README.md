@@ -5,7 +5,7 @@
   
 🛠️ Tech Stack
 
-- 🔣 Generative AI, LLM, Langchain, Python, Robot Framework
+- 🔣 Generative AI, LLM, Langchain, Python, Robot Framework, VoIP/SIP, SDN, 5G
 
 Thanks for visiting!
 
