@@ -1,9 +1,9 @@
 ### Hi I am Kranti 👋
 👨🏻‍ About Me
-💻 Two decades of experience in software Industry.
-🎓 MTech,(PhD), PGDTC, PGDCL,LLB 
+- 💻 Two decades of experience in software Industry.
+- 🎓 MTech,(PhD), PGDTC, PGDCL,LLB 
 🛠️ Tech Stack
-🔣 Generative AI, LLM, Langchain, Python, Robot Framework
+- 🔣 Generative AI, LLM, Langchain, Python, Robot Framework
 
 
 
