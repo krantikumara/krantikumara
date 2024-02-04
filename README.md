@@ -2,7 +2,9 @@
 👨🏻‍ About Me
 - 💻 Two decades of experience in software Industry.
 - 🎓 MTech,(PhD), PGDTC, PGDCL,LLB
+  
 🛠️ Tech Stack
+
 - 🔣 Generative AI, LLM, Langchain, Python, Robot Framework
 
 Thanks for visiting!
