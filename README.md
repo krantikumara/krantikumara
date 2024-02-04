@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I am Kranti 👋
+👨🏻‍ About Me
+💻 Two decades of experience in software Industry.
+🎓 MTech,(PhD), PGDTC, PGDCL,LLB 
+🛠️ Tech Stack
+🔣 Generative AI, LLM, Langchain, Python, Robot Framework
+
+
+
+
 
 <!--
 **krantikumara/krantikumara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
